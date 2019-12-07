@@ -1,0 +1,70 @@
+.debug div[class="col"],
+.debug div[class^="col-"]
+{
+	border: 1px dashed red;
+}
+
+.row
+{
+	margin-bottom: 20px;
+}
+
+.BannerTop
+{
+    font-family: 'Changa', sans-serif;
+		text-align: center;
+		font-size: 350%;
+		color: #e22828;
+}
+
+.MenuTop
+{
+	background-color: #1856e6;
+}
+
+.MenuTop a
+{
+	color: white;
+	
+}
+
+
+#wrapper
+{
+	margin-top: 20px;
+	padding-top: 10px;
+	background-color: #fff;
+	box-shadow: 10px 0 0 white, -10px 0 0  white;
+}
+
+#nocensura
+{
+	padding-bottom: 3px;
+	text-align: center;
+}
+/* Create your own classes for boxes with bg colors*/
+.inner
+{
+	background-color: yellow;
+	padding: 1rem;
+}
+
+#gallery
+{
+	height: 600px;
+	text-align: center;
+}
+
+#gallery img
+{
+	width: 190px;
+	padding: .15625em;
+	height: 190px;
+	border: 1px solid rgba(158, 169, 185, 0.54);
+}
+
+a
+{
+	border: 0;
+	margin: 0;
+}
